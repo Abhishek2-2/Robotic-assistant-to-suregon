@@ -1,6 +1,0 @@
-<launch>
-
-<include file="$(find arm_gazebo)/launch/empty_world.launch"/>
-<include file="$(find arm_moveit_config)/launch/moveit_planning_execution.launch"/>
-
-</launch>
